@@ -1,5 +1,6 @@
 - Hi, I’m @Developer0607.
-- I'm a senior high school student (Graduated from Jinan Quanjing Middle School, now in Jinan Licheng No.2 High School).
+- My name is Wang Jianlin(王建琳)
+- I'm a senior high school student at Jinan Licheng No.2 High School.
 - I’m currently learning C++ and Nasal.
 - I'm a FlightGear pilot and developer.
 
